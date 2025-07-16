@@ -1,4 +1,4 @@
-# Pictoria AI Starter Code
+# Pictoria AI
 
 An AI-powered image generation and management dashboard built with Next.js, TypeScript, and Supabase. This project provides a modern, full-stack template for building AI-driven SaaS products with user authentication, billing, image gallery, and model training features.
 
