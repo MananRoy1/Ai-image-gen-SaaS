@@ -1,4 +1,4 @@
-# Pictoria AI Starter Code
+# Pictoria AI
 
 An AI-powered image generation and management dashboard built with Next.js, TypeScript, and Supabase. This project provides a modern, full-stack template for building AI-driven SaaS products with user authentication, billing, image gallery, and model training features.
 
@@ -98,4 +98,8 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## Credits
 
 - Built with [Next.js](https://nextjs.org/), [React](https://react.dev/), [Supabase](https://supabase.com/), and [Stripe](https://stripe.com/)
+<<<<<<< HEAD
 - Starter code and UI inspired by modern SaaS best practices 
+=======
+- Starter code and UI inspired by modern SaaS best practices 
+>>>>>>> 0521370fa5406c0a325d2202ff95277d2b734cc9
