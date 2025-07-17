@@ -28,7 +28,7 @@ export default async function Home() {
       <HeroSection />
       <Features />
       <Testimonials />
-      <Pricing products={products ?? []} />
+      {/* <Pricing products={products ?? []} /> */}
       <Faqs />
       <CallToAction />
       <Footer />
